@@ -1,5 +1,5 @@
-ls - visualizar os conteudos dentro do arquivo atual 
-
-pwd - identificação do arquivo atual 
-
-cd - mover entre os arquivos
+ls - visualizar os arquivos dentro do diretorio atual 
+pwd - identificação do diretorio atual 
+cd - mover entre os diretorios/arquivos
+cat - exibe o conteudo dentro dos diretorios/arquivos
+rm - remove arquivos ou diretorios
