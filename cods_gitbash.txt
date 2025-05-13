@@ -3,3 +3,4 @@ pwd - identificação do diretorio atual
 cd - mover entre os diretorios/arquivos
 cat - exibe o conteudo dentro dos diretorios/arquivos
 rm - remove arquivos ou diretorios
+rm -rf - realiza de forma forçada e recursiva a remoção dos diretorios/arquivos citados
