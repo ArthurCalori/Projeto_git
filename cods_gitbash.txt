@@ -1,0 +1,5 @@
+ls - visualizar os conteudos dentro do arquivo atual 
+
+pwd - identificação do arquivo atual 
+
+cd - mover entre os arquivos
