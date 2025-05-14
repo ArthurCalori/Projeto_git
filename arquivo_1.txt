@@ -2,4 +2,5 @@ Trabalho 01!
 
 Novos conteudos.
 
-Trabalho em Front End
+Mobile adicionado.
+
