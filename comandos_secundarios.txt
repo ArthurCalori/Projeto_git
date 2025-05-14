@@ -1,1 +1,3 @@
 Comandos secundarios GIT
+
+Git merger - mesclar ambas branches. Entretanto, é necessario da Marge em cada alteração do conteudo. 
